@@ -10,8 +10,8 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/ne
     - If you know git, please fork the repo and send pull requests.
 3. We have 3 kinds of lists. Choose the right one:
 
-    - **Open Source** : All the open source tools [OpenSource](https://github.com/newcon/securitytools/opensource.md)
-    - **Free and closed source** : All the free tools are not open source. Please validate before adding to the list. Here's a link for the reference [difference between free and open source](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html) [Free-and-closedsource](https://github.com/newcon/securitytools/free-and-closedsource.md)
-    - **Paid** : All those tools that need to be bought or are paid for use
+    - **Open Source** : All the open source tools. Here's a link for the reference [Open Source](https://opensource.org/). [OpenSource](https://github.com/newcon/securitytools/opensource.md)
+    - **Free and closed source** : All the free tools are not open source. Please validate before adding to the list. Here's a link for the reference [difference between free and open source](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html). File link [Free-and-closedsource](https://github.com/newcon/securitytools/free-and-closedsource.md)
+    - **Paid** : All those tools that need to be bought or are paid for use.
 
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [formatting](#formatting) of the files
