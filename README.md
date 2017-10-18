@@ -22,6 +22,7 @@ See also the list of [contributors](https://github.com/newcon/securitytools/cont
 
 
 ## Acknowledgments
-* Inspiration
+Inspired from:
 * **Sectools** - [sectools](https://sectools.org)
 * **EbookFoundation** - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* **Hacking Tools Repository** - [Gexos-Hacking-Tools-Repository](http://gexos.github.io/Hacking-Tools-Repository/)
