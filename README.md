@@ -4,7 +4,7 @@ This list is being prepared in order to give everyone an easy access to the link
 
 ## Getting Started
 
-Please navigate to [list.md](https://github.com/newconsecuritytools) to get started.
+Please navigate to [list.md](https://github.com/newconsecuritytools/List.md) to get started.
 
 ### Prerequisites
 
@@ -12,7 +12,7 @@ No prerequisites for contributing.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/newcon/securitytools) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [Contributing.md](https://github.com/newcon/securitytools/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
