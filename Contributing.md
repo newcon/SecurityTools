@@ -19,4 +19,5 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/ne
 ### Formatting
 - All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!
 - All the lists start with an Index. The idea is to list and link all sections and subsections there. Keep it in alphabetical order.
+- List headers are using level 2 headings (`##`). [Only three list headers are allowed: Open Source, Free-and-closed-source, Paid]
 - Sections are using level 3 headings (`###`), and subsections are level 4 headings (`####`).
