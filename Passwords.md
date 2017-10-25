@@ -1,4 +1,7 @@
 ## Open Source
+* [John the Ripper](#JohnTheRipper)
+### [JohnTheRipper](http://www.openwall.com/john/)
+#### John the Ripper is a well-known password cracking tool for Linux, Unix and Mac OS X. A Windows version is also available. This tool can detect weak passwords.
 ## Free and Closed-Source
 * [ChromePass](#ChromePass)
 * [MessenPass](#MessenPass)
