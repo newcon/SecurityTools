@@ -1,6 +1,6 @@
 ## Categories
-* [**Passwords**](https://github.com/newcon/securitytools/Passwords.md)
-* [**Scanning**](https://github.com/newcon/securitytools/Scanning.md)
+* [**Passwords**](https://github.com/newcon/SecurityTools/blob/master/Passwords.md)
+* [**Scanning**](https://github.com/newcon/SecurityTools/blob/master/Scanning.md)
 * [**Sniffer**](https://github.com/newcon/securitytools/Sniffer.md)
 * [**Enumeration**](https://github.com/newcon/securitytools/Enumeration.md)
 * [**Networking Tools**](https://github.com/newcon/securitytools/NetworkingTools.md)
@@ -9,4 +9,4 @@
 * [**Web Scanners**](https://github.com/newcon/securitytools/WebScanners.md)
 * [**Database**](https://github.com/newcon/securitytools/Database.md)
 * [**Vulnerability Scanners**](https://github.com/newcon/securitytools/VulnerabilityScanners.md)
-* [**Server Configuration Reporting**](https://github.com/newcon/SecurityTools/edit/master/ServerConfigurationReporting)
+* [**Server Configuration Reporting**](https://github.com/newcon/SecurityTools/edit/master/ServerConfigurationReporting.md)
