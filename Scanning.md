@@ -5,6 +5,7 @@
 ## Free and Closed-Source
 * [Security Headers](#SecurityHeaders)
 ## Paid
+* [Acunetix](#Acunetix)
 
 ## Open Source
 ### [Autopsy](https://www.sleuthkit.org/autopsy/download.php)
@@ -18,3 +19,5 @@
 ### [SecurityHeaders](https://securityheaders.io)
 #### Quickly and easily assess the security of HTTP response headers of your website using this webapp. It also gives rating to the assessed website based on the security-headers-score.
 ## Paid
+### [Acunetix](https://www.acunetix.com/vulnerability-scanner/download/)
+#### Acunetix Web Vulnerability Scanner is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting, and other exploitable vulnerabilities. Find more about it [here](https://hakin9.org/acunetix-web-vulnerability-scanner/)
