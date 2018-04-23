@@ -6,6 +6,7 @@
 * [Security Headers](#SecurityHeaders)
 ## Paid
 * [Acunetix](#Acunetix)
+* [Nessus](#Nessus)
 
 ## Open Source
 ### [Autopsy](https://www.sleuthkit.org/autopsy/download.php)
@@ -21,3 +22,5 @@
 ## Paid
 ### [Acunetix](https://www.acunetix.com/vulnerability-scanner/download/)
 #### Acunetix Web Vulnerability Scanner is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting, and other exploitable vulnerabilities. Find more about it [here](https://hakin9.org/acunetix-web-vulnerability-scanner/)
+### [Nessus](https://www.tenable.com/products/nessus/nessus-professional)
+### Nessus is a remote security scanning tool, which scans a computer and raises an alert if it discovers any vulnerabilities that malicious hackers could use to gain access to any computer you have connected to a network. Apart from configuration reviews and compliance checks, Nessus is a handy tool to perform vulnerability assessment on network devices, web applications as well as firewalls.
