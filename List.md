@@ -9,5 +9,5 @@
 * [**Web Scanners**](https://github.com/newcon/securitytools/WebScanners.md)
 * [**Database**](https://github.com/newcon/securitytools/Database.md)
 * [**Vulnerability Scanners**](https://github.com/newcon/securitytools/VulnerabilityScanners.md)
-* [**Configuration Review**](https://github.com/newcon/SecurityTools/ConfigurationReview.md)
-* [**Secure Code Review**](https://github.com/newcon/SecurityTools/SecureCodeReview.md)
+* [**Configuration Review**](https://github.com/newcon/SecurityTools/blob/master/ServerConfigurationReporting.md)
+* [**Secure Code Review**](https://github.com/newcon/SecurityTools/blob/master/SecureCodeReview.md)
