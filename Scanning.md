@@ -6,6 +6,7 @@
 * [Security Headers](#SecurityHeaders)
 ## Paid
 * [Acunetix](#Acunetix)
+* [Burp Suite](#BurpSuite)
 * [Nessus](#Nessus)
 
 ## Open Source
@@ -22,5 +23,12 @@
 ## Paid
 ### [Acunetix](https://www.acunetix.com/vulnerability-scanner/download/)
 #### Acunetix Web Vulnerability Scanner is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting, and other exploitable vulnerabilities. Find more about it [here](https://hakin9.org/acunetix-web-vulnerability-scanner/)
+### [BurpSuite](https://portswigger.net/burp/communitydownload)
+#### Burp Suite is a must have tool if project specifies web application security testing. It offers features like:
+* Automated crawl and scan
+* Custom and advanced scanning for manual testers
+* Lists vulnerabilities identified in a categorical manner
+* Automates custom attacks using Intruder and more
+See [Burp Suite](https://portswigger.net/burp) for more.
 ### [Nessus](https://www.tenable.com/products/nessus/nessus-professional)
-### Nessus is a remote security scanning tool, which scans a computer and raises an alert if it discovers any vulnerabilities that malicious hackers could use to gain access to any computer you have connected to a network. Apart from configuration reviews and compliance checks, Nessus is a handy tool to perform vulnerability assessment on network devices, web applications as well as firewalls.
+#### Nessus is a remote security scanning tool, which scans a computer and raises an alert if it discovers any vulnerabilities that malicious hackers could use to gain access to any computer you have connected to a network. Apart from configuration reviews and compliance checks, Nessus is a handy tool to perform vulnerability assessment on network devices, web applications as well as firewalls.
