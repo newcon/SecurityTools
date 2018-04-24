@@ -11,5 +11,5 @@
 ### [YASCA](https://github.com/scovetta/yasca)
 #### Not supported, instead see [Devskim](https://github.com/Microsoft/DevSkim)
 ## Paid
-### Xanitizer(https://www.rigs-it.com/xanitizer/)
+### [Xanitizer](https://www.rigs-it.com/xanitizer/)
 #### As per the information on official website, By means of static code analysis the tool systematically scans the program code of an entire system for security vulnerabilities. Xanitizer investigates not only the source code, but also configuration files and templates for rendering the HTML output.
