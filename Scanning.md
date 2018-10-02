@@ -2,6 +2,7 @@
 * [Autopsy](#Autopsy)
 * [Bitpim](#Bitpim)
 * [VEGA](#VEGA)
+* [TESTSSL.sh](#TestSSL.sh)
 ## Free and Closed-Source
 * [Security Headers](#SecurityHeaders)
 * [Advanced port Scanner](#AdvancedPortScanner)
@@ -18,6 +19,8 @@
 #### BitPim is a program that allows you to view and manipulate data on many CDMA phones from LG, Samsung, Sanyo and other manufacturers. This includes the PhoneBook, Calendar, WallPapers, RingTones (functionality varies by phone) and the Filesystem for most Qualcomm CDMA chipset based phones. 
 ### [VEGA](https://subgraph.com/vega/download/)
 #### Vega is a free and open source web security scanner and web security testing platform to test the security of web applications. Vega can help you find and validate SQL Injection, Cross-Site Scripting (XSS), inadvertently disclosed sensitive information, and other vulnerabilities. Vega can help you find vulnerabilities such as: reflected cross-site scripting, stored cross-site scripting, blind SQL injection, remote file include, shell injection, and others. Vega also probes for TLS / SSL security settings and identifies opportunities for improving the security of your TLS servers.
+### [TestSSL.sh](https://testssl.sh/)
+#### testssl.sh is a free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as recent cryptographic flaws and more.
 ## Free and Closed-Source
 ### [SecurityHeaders](https://securityheaders.io)
 #### Quickly and easily assess the security of HTTP response headers of your website using this webapp. It also gives rating to the assessed website based on the security-headers-score.
