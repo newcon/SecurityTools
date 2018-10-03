@@ -1,6 +1,6 @@
 ## Open Source
 * [DEFT Security OS](#DEFT)
-* [DD Tools](#DD Imaging Tool)
+* [DD Tool](#DD Imaging Tool)
 ## Free and Closed-Source
 * [Hex Editor Neo](#HexEditorNeo)
 ## Paid
