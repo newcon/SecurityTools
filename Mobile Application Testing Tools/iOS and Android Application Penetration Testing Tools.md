@@ -4,7 +4,10 @@
 * [dex2jar](#dex2jar)
 * [JD-GUI](#jd-gui)
 * [MobSF](#mobsf)
-* [Inspeckage](#inspeckage)
+* [Cydia Impactor](#Cydia--Impactor)
+* [Keychain-Dumper](#Keychain--Dumper)
+* [Class-Dump](#Class-Dump)
+* [Clutch](#Clutch)
 ## Free and Closed-Source
 ## Paid
 * [Fortify Static Code Analyzer](#fortify)
@@ -30,6 +33,18 @@ Open “.jar” file with JD-GUI, where we can view the source code of the appli
 
 ### [Inspeckage](https://github.com/ac-pm/Inspeckage)
 #### Inspeckage is a tool to offer dynamic analysis of Android applications. By applying hooks to functions of the Android API, Inspeckage will help you understand what an Android application is doing at runtime and moreover satart unexported activities (Xposed Module).
+
+### [Cydia Impactor](http://www.cydiaimpactor.com/)
+#### Cydia Impactor is a GUI tool for working with mobile devices. This tool is use for installing IPA files on iOS and APK files on Android. It also can help you exploit the series of Android "Master Key" vulnerabilities.
+
+### [Keychain Dumper](https://github.com/ptoomey3/Keychain-Dumper)
+#### A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken.
+
+### [Class-Dump](http://stevenygard.com/projects/class-dump/)
+#### Class Dump is a command-line utility for examining the Objective-C runtime information stored in Mach-O files. It generates declarations for the classes, categories and protocols. Also we can look at the design of closed source applications, frameworks, and bundles. Watch the interfaces evolve between releases. Experiment with private frameworks, or see what private goodies are hiding in the AppKit. 
+
+### [Clutch](https://github.com/KJCracks/Clutch)
+#### Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research.Clutch requires a jailbroken iOS device with version 8.0 or greater.
 
 ## Free and Closed-Source
 
