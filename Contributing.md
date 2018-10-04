@@ -14,7 +14,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/ne
     - **Free and closed source**: All the free tools are not open source. Please validate before adding to the list. Here's a link for the reference [difference between free and open source](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html).
     - **Paid**: All those tools that need to be bought or are paid for use.
 
-4. Make sure to follow the [guidelines below](#guidelines) and respect the [formatting](#formatting) of the files.
+4. Make sure to respect the [formatting](#formatting) of the files.
 
 ### Formatting
 - All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!
