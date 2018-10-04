@@ -3,7 +3,10 @@
 * [DD Tool](#DD--Imaging--Tool)
 * [Volatility](##Volatility--Memory--Forensics)
 * [CAINE](##CAINE) 
+* [LiME Linux Memory Extractor](##LiME--Linux--Memory--Extractor)
+
 ## Free and Closed-Source
+
 * [Hex Editor Neo](#HexEditorNeo)
 ## Paid
 * [EnCase](#EnCase)
@@ -16,6 +19,8 @@
 #### Volatility is the memory forensics framework and extensively used for incident response as well as malware analysis. By using this tool, you could dig information from running processes,registry hives,network sockets, network connection and DLLs. 
 ### [CAINE]( http://www.caine-live.net/) 
 #### CAINE is the open source Linux distro created for digital forensics. It is basically provides an environment to integrate existing software tools as software modules in a user friendly manner.
+### [LiME]( https://github.com/504ensicslabs/lime)
+A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android. This makes LiME unique as it is the first tool that allows for full memory captures on Android devices. It also minimizes its interaction between user and kernel space processes during acquisition, which allows it to produce memory captures that are more forensically sound than those of other tools designed for Linux memory acquisition.
 ## Free and Closed-Soure
 ### [HexEditorNeo](https://freehexeditorneo.com/)
 #### Hex Editor Neo is a binary files editing software utility for Windows. It's rich and handy set of features will help all software and hardware developers working with ASCII, hex, decimal, float, double and binary data.
