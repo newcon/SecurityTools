@@ -1,8 +1,8 @@
 ## Open Source
-* [John the Ripper](#JohnTheRipper)
+* [John the Ripper](#johntheripper)
 ## Free and Closed-Source
-* [ChromePass](#ChromePass)
-* [MessenPass](#MessenPass)
+* [ChromePass](#chromepass)
+* [MessenPass](#messenpass)
 ## Paid
 ## Open Source
 ### [JohnTheRipper](http://www.openwall.com/john/)
