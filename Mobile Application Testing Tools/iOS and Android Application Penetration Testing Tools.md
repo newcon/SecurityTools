@@ -1,18 +1,13 @@
 ## Open Source
-* .[AppUse Virtual Machine](#AppUse)
-
-* .[Android Application Penetration Testing Tools]
-* .[apktool](#apktool)
-* .[dex2jar](#dex2jar)
-* .[JD-GUI](#JD-GUI)
-* .[MobSF](#MobSF)
-* .[Inspeckage](#Inspeckage)
-
-
+* [AppUse Virtual Machine](#appuse)
+* [apktool](#apktool)
+* [dex2jar](#dex2jar)
+* [JD-GUI](#jd-gui)
+* [MobSF](#mobsf)
+* [Inspeckage](#inspeckage)
 ## Free and Closed-Source
-
 ## Paid
-* .[Fortify Static Code Analyzer](#Fortify)
+* [Fortify Static Code Analyzer](#fortify)
 
 ## Open Source
 ### [AppUse](https://appsec-labs.com/appuse)
