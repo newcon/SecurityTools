@@ -8,6 +8,7 @@
 * [Hex Editor Neo](#HexEditorNeo)
 ## Paid
 * [EnCase](#EnCase)
+* [FTK Imager](#FTK-Imager)
 ## Open Source
 ### [DEFT](http://www.deftlinux.net/download/)
 #### DEFT is a Linux forensics tools which  contains bundles of tools which are free and open source. Mostly used for Incident Response, Cyber Intelligence and Computer Forensics scenarios. Amongst others, it contains tools for Mobile Forensics, Network Forensics, Data Recovery, and Hashing.
@@ -26,3 +27,5 @@ Highly optimized performance, carefully tuned user interface among with new leve
 ## Paid
 ### [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx)
 #### EnCase is the tool that is used for multi-purpose with many nice tools for several areas of the digital forensic process.It is used to gather data from various devices to unearth the evidences. It also produces a report based on the evidence.
+### [AccessData Forensic Toolkit (FTK Imager)](http://marketing.accessdata.com/ftkimager4.2.0)
+#### FTK Imager is a data preview and imaging tool used to acquire data (evidence) in a forensically sound manner by creating copies of data without making changes to the original evidence. It is used by security organizations (including law enforcement) for post-incident procedures.
