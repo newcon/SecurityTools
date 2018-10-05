@@ -1,15 +1,15 @@
 ## Open Source
-* [Autopsy](#Autopsy)
-* [Bitpim](#Bitpim)
-* [VEGA](#VEGA)
-* [TESTSSL.sh](#TestSSL.sh)
+* [Autopsy](#autopsy)
+* [Bitpim](#bitpim)
+* [VEGA](#vega)
+* [TESTSSL.sh](#testssl)
 ## Free and Closed-Source
-* [Security Headers](#SecurityHeaders)
-* [Advanced port Scanner](#AdvancedPortScanner)
+* [Security Headers](#securityheaders)
+* [Advanced port Scanner](#advancedportscanner)
 ## Paid
-* [Acunetix](#Acunetix)
-* [Burp Suite](#BurpSuite)
-* [Nessus](#Nessus)
+* [Acunetix](#acunetix)
+* [Burp Suite](#burpsuite)
+* [Nessus](#nessus)
 
 ## Open Source
 ### [Autopsy](https://www.sleuthkit.org/autopsy/download.php)
@@ -19,7 +19,7 @@
 #### BitPim is a program that allows you to view and manipulate data on many CDMA phones from LG, Samsung, Sanyo and other manufacturers. This includes the PhoneBook, Calendar, WallPapers, RingTones (functionality varies by phone) and the Filesystem for most Qualcomm CDMA chipset based phones. 
 ### [VEGA](https://subgraph.com/vega/download/)
 #### Vega is a free and open source web security scanner and web security testing platform to test the security of web applications. Vega can help you find and validate SQL Injection, Cross-Site Scripting (XSS), inadvertently disclosed sensitive information, and other vulnerabilities. Vega can help you find vulnerabilities such as: reflected cross-site scripting, stored cross-site scripting, blind SQL injection, remote file include, shell injection, and others. Vega also probes for TLS / SSL security settings and identifies opportunities for improving the security of your TLS servers.
-### [TestSSL.sh](https://testssl.sh/)
+### <a name ="testssl">[TestSSL.sh](https://testssl.sh/)</a>
 #### testssl.sh is a free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as recent cryptographic flaws and more.
 ## Free and Closed-Source
 ### [SecurityHeaders](https://securityheaders.io)
@@ -29,7 +29,7 @@
 ## Paid
 ### [Acunetix](https://www.acunetix.com/vulnerability-scanner/download/)
 #### Acunetix Web Vulnerability Scanner is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting, and other exploitable vulnerabilities. Find more about it [here](https://hakin9.org/acunetix-web-vulnerability-scanner/)
-### [Burp Suite](https://portswigger.net/burp/communitydownload)
+### <a name ="burpsuite">[Burp Suite](https://portswigger.net/burp/communitydownload)</a>
 #### Burp Suite is a must have tool if project specifies web application security testing. It offers features like:
 * Automated crawl and scan
 * Custom and advanced scanning for manual testers
