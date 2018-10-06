@@ -1,6 +1,6 @@
 ## Categories
 * [**Passwords**](https://github.com/newcon/SecurityTools/blob/master/Passwords.md)
-* [**Scanning**](SecurityTools/Scanning.md )
+* [**Scanning**](Scanning.md )
 * [**Sniffer**](https://github.com/newcon/securitytools/Sniffer.md)
 * [**Enumeration**](https://github.com/newcon/securitytools/Enumeration.md)
 * [**Networking Tools**](https://github.com/newcon/securitytools/NetworkingTools.md)
