@@ -7,10 +7,10 @@
 ## Free and Closed-Source
 * [Hex Editor Neo](#hexeditor)
 ## Paid
-* [EnCase](#encase)
-* [Magnet AXIOM](#axiom)
-* [FTK Imager](#ftk)
-* [Cellebrite UFED](#ufed)
+* [EnCase](#EnCase)
+* [Magnet AXIOM](#Axiom)
+* [FTK Imager](#FTK-Imager)
+* [Cellebrite UFED](#cellebrite-ufed)
 
 ## Open Source
 ### <a name="DEFT">[DEFT](http://www.deftlinux.net/download/)</a>
@@ -34,5 +34,5 @@
 #### A series of tools by Magnet Forensics, for every stage of the digital investigation process. It covers everything from SmartPhone Forensics to Case management, Magnet AXIOM's EXAMINE and PROCESS utilities guide the user throughout the whole triage process. [Free trial link](https://www.magnetforensics.com/try-magnet-axiom-free-30-days/)
 ### <a name="ftk">[AccessData Forensic Toolkit (FTK Imager)](http://marketing.accessdata.com/ftkimager4.2.0)</a>
 #### FTK Imager is a data preview and imaging tool used to acquire data (evidence) in a forensically sound manner by creating copies of data without making changes to the original evidence. It is used by security organizations (including law enforcement) for post-incident procedures.
-### <a name="ufed">[Cellebrite UFED](https://www.cellebrite.com/en/products/ufed-ultimate/)</a>
+### [Cellebrite UFED](https://www.cellebrite.com/en/products/ufed-ultimate/)
 #### The Cellebrite 'Universal Forensic Extraction Device' (UFED) is a tool for mobile phone, smartphone, and PDA forensics. the UFED was compatible with over 2,500 mobile phones (including GSM, TDMA, CDMA, iDEN). The standard package containing several dozen phone cables. The UFED had an intergrated SIM reader, with Wireless connection options also being integrated, such as IR and Bluetooth.The UFED also supports native Apple iPOD Touch, and Apple iPHONE extraction on both 2G and 3G versions, as well as iOS4. This is clientless, and via a physical cable, and works on jailbroken and non-jailbroken devices. Subject data can be retrieved via logical extraction or via physical extraction (ie: hex dump). Moreover, all cable connectors from subject (source) side act as a write-blocker, being read only via the onboard hardware chipset. Extracted data includes basic handset data, the phonebook, SMS and MMS messages, SIM data, multimedia (e.g. images and videos stored on the phone), and time and date stamps.
