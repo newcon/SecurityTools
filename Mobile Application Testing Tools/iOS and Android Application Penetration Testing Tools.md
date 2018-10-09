@@ -11,6 +11,7 @@
 * [Passionfruit](#Passionfruit)
 * [Needle](#Needle)
 
+
 ## Free and Closed-Source
 
 ## Paid
@@ -56,7 +57,6 @@ Open “.jar” file with JD-GUI, where we can view the source code of the appli
 
 ### [Needle](https://github.com/mwrlabs/needle)
 ####  Needle is an open source, modular framework to streamline the process of conducting security assessments of iOS apps. Needle is intended to be useful not only for security professionals, but also for developers looking to secure their code. A few examples of testing areas covered by Needle include: data storage, inter-process communication, network communications, static code analysis, hooking and binary protections. The only requirement in order to run Needle effectively is a jailbroken device.
-
 
 ## Free and Closed-Source
 
