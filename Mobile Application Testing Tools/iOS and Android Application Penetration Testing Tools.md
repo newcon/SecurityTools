@@ -9,10 +9,13 @@
 * [Class-Dump](#Class-Dump)
 * [Clutch](#Clutch)
 * [Passionfruit](#Passionfruit)
+* [Needle](#Needle)
 
 ## Free and Closed-Source
+
 ## Paid
 * [Fortify Static Code Analyzer](#fortify)
+* [Hopper](#Hopper)
 
 ## Open Source
 ### [AppUse](https://appsec-labs.com/appuse)
@@ -51,8 +54,15 @@ Open “.jar” file with JD-GUI, where we can view the source code of the appli
 ### [Passionfruit](https://github.com/chaitin/passionfruit)
 ####  Passionfruit is a crappy iOS app analyzer and having number of features like Capture screenshot, Check signature entitlements, Log and try to bypass jailbreak detection, Log SQLite operations, List Objective-C classes from app, hook the methods and inspect the arguments and stack trace, Dump KeyChain, BinaryCookies and UserDefaults etc.
 
+### [Needle](https://github.com/mwrlabs/needle)
+####  Needle is an open source, modular framework to streamline the process of conducting security assessments of iOS apps. Needle is intended to be useful not only for security professionals, but also for developers looking to secure their code. A few examples of testing areas covered by Needle include: data storage, inter-process communication, network communications, static code analysis, hooking and binary protections. The only requirement in order to run Needle effectively is a jailbroken device.
+
+
 ## Free and Closed-Source
 
 ## Paid
 ### [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview)
 #### Fortify Static Code Analyzer (SCA) plays an essential role in helping to create secure software by identifying vulnerabilities with less effort, in less time, and maintaining code quality.  
+
+### [Hopper](https://www.hopperapp.com/)
+#### Hopper Disassembler, the reverse engineering tool that lets you disassemble, decompile and debug your iOS applications. Hopper displays the code using different representations. Edit, annotate, comment your work directly from the interactive CFG view. For detail information please visit: https://www.hopperapp.com/
