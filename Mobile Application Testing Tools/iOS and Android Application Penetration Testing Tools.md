@@ -8,6 +8,8 @@
 * [Keychain-Dumper](#Keychain--Dumper)
 * [Class-Dump](#Class-Dump)
 * [Clutch](#Clutch)
+* [Passionfruit](#Passionfruit)
+
 ## Free and Closed-Source
 ## Paid
 * [Fortify Static Code Analyzer](#fortify)
@@ -45,6 +47,9 @@ Open “.jar” file with JD-GUI, where we can view the source code of the appli
 
 ### [Clutch](https://github.com/KJCracks/Clutch)
 #### Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research.Clutch requires a jailbroken iOS device with version 8.0 or greater.
+
+### [Passionfruit](https://github.com/chaitin/passionfruit)
+####  Passionfruit is a crappy iOS app analyzer and having number of features like Capture screenshot, Check signature entitlements, Log and try to bypass jailbreak detection, Log SQLite operations, List Objective-C classes from app, hook the methods and inspect the arguments and stack trace, Dump KeyChain, BinaryCookies and UserDefaults etc.
 
 ## Free and Closed-Source
 
