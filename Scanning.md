@@ -3,6 +3,7 @@
 * [Bitpim](#bitpim)
 * [VEGA](#vega)
 * [TESTSSL.sh](#testssl)
+* [Codemodder](#codemodder)
 ## Free and Closed-Source
 * [Security Headers](#securityheaders)
 * [Advanced port Scanner](#advancedportscanner)
@@ -21,6 +22,8 @@
 #### Vega is a free and open source web security scanner and web security testing platform to test the security of web applications. Vega can help you find and validate SQL Injection, Cross-Site Scripting (XSS), inadvertently disclosed sensitive information, and other vulnerabilities. Vega can help you find vulnerabilities such as: reflected cross-site scripting, stored cross-site scripting, blind SQL injection, remote file include, shell injection, and others. Vega also probes for TLS / SSL security settings and identifies opportunities for improving the security of your TLS servers.
 ### <a name ="testssl">[TestSSL.sh](https://testssl.sh/)</a>
 #### testssl.sh is a free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as recent cryptographic flaws and more.
+### [Codemodder](https://codemodder.io)
+#### Codemodder is a pluggable framework for building expressive codemods. Use Codemodder when you need more than a linter or code formatting tool. Use it to fix non-trivial security issues and other code quality problems.
 ## Free and Closed-Source
 ### [SecurityHeaders](https://securityheaders.io)
 #### Quickly and easily assess the security of HTTP response headers of your website using this webapp. It also gives rating to the assessed website based on the security-headers-score.
