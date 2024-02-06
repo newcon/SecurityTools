@@ -6,6 +6,7 @@
 ## Free and Closed-Source
 * [Security Headers](#securityheaders)
 * [Advanced port Scanner](#advancedportscanner)
+* [Pixee](#pixee)
 ## Paid
 * [Acunetix](#acunetix)
 * [Burp Suite](#burpsuite)
@@ -26,6 +27,8 @@
 #### Quickly and easily assess the security of HTTP response headers of your website using this webapp. It also gives rating to the assessed website based on the security-headers-score.
 ### [AdvancedPortScanner](https://www.advanced-port-scanner.com/)
 #### Advanced Port Scanner is a free network scanner allowing you to quickly find open ports on network computers and retrieve versions of programs running on the detected ports. The program has a user-friendly interface and rich functionality.
+### [Pixee](https://pixee.ai)
+#### Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 ## Paid
 ### [Acunetix](https://www.acunetix.com/vulnerability-scanner/download/)
 #### Acunetix Web Vulnerability Scanner is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting, and other exploitable vulnerabilities. Find more about it [here](https://hakin9.org/acunetix-web-vulnerability-scanner/)
